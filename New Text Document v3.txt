@@ -1,0 +1,7 @@
+Text1 = V1
+Text2 = V2
+Text3 = V3
+====
+
+Sample1
+Sample2
